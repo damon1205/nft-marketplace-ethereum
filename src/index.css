@@ -46,3 +46,7 @@ table {
 tr {
 	background-color: antiquewhite;
 }
+
+td {
+	color: red;
+}
